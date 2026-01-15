@@ -1,18 +1,150 @@
-# 💫 About Me:
-👋 Hi, I’m Musa<br>🔭 I’m currently working on: Mobile apps using Flutter, Android (Java/Kotlin), and iOS<br>🤝 I’m looking to collaborate on: Scalable mobile apps, startups, and real-world product ideas<br>🆘 I’m looking for help with: Advanced system design, app scalability, and performance optimization<br>🌱 I’m currently learning: Clean Architecture, backend scalability, and advanced Flutter patterns<br>💬 Ask me about: Flutter, mobile app architecture (MVC, MVVM, MVP), API integration, and app optimization<br>⚡ Fun fact: I enjoy solving LeetCode problems to sharpen my problem-solving skills
+# 💫 About Me
 
+👋 Hi, I'm **Musa** — a passionate mobile developer specializing in cross-platform solutions
 
-## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/leetcode-MuhammadMusaX-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF)](https://leetcode.com/u/MuhammadMusaX/)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/musa195420) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-musa-8ba5b6305) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/musa195420) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)  ](mailto:musa195420@gmail.com) 
+🔭 **Currently working on:** Scalable mobile applications using Flutter, Android (Java/Kotlin), and iOS (Swift)  
+🤝 **Open to collaborate on:** Innovative mobile apps, startups, and impactful real-world products  
+🆘 **Seeking help with:** Advanced system design, app scalability, and performance optimization  
+🌱 **Currently learning:** Clean Architecture, backend scalability, and advanced Flutter design patterns  
+💬 **Ask me about:** Flutter, mobile app architecture (MVC, MVVM, MVP), API integration, Firebase, Supabase, and app optimization  
+⚡ **Fun fact:** I sharpen my problem-solving skills daily on LeetCode and love building solutions that make a difference
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=musa195420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=musa195420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musa195420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 🌐 Connect With Me
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-MuhammadMusaX-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/MuhammadMusaX/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-musa-8ba5b6305)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/musa195420)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/musa195420)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musa195420@gmail.com)
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 [PetAdopt - Pet Adoption Platform](https://github.com/musa195420/PetAdoption)
+
+A comprehensive cross-platform pet adoption ecosystem built with **Flutter** and **Next.js/Express.js** backend.
+
+**🎯 Key Features:**
+- **Role-based system:** Adopter, Donor, and Admin workflows
+- **ML-powered detection:** PyTorch Lite model for automatic pet species classification (Dog/Cat/Bird)
+- **Real-time chat:** Firebase Firestore messaging between adopters and donors
+- **Secure meetups:** Location sharing and verification system for safe adoptions
+- **Health tracking:** Complete pet medical history and vaccination records
+- **Advanced filtering:** Search by species, breed, age, location with geolocation support
+
+**🛠 Tech Stack:**
+- **Frontend:** Flutter (MVVM architecture), Hive (local DB)
+- **Backend:** Next.js, Express.js, PostgreSQL (Supabase)
+- **Auth:** JWT with refresh token flow
+- **Storage:** Supabase bucket with Multer integration
+- **ML:** PyTorch Light for image classification
+
+**📊 Architecture:**
+- MVC pattern on backend
+- MVVM pattern on mobile
+- 74+ implemented API endpoints
+- Comprehensive data models with relational DB structure
+
+[📱 View Mobile App](https://github.com/musa195420/PetAdoptionApp) | [🔧 View Backend API](https://github.com/musa195420/PetAdoption)
+
+---
+
+### 🎯 [Lumi_H5P - Flutter H5P Player](https://pub.dev/packages/lumi_h5p)
+
+A Flutter package enabling **offline H5P interactive content playback** — perfect for educational apps.
+
+**🎯 Key Features:**
+- ✅ Play `.h5p` files completely **offline** after initial download
+- ✅ **No H5P server required** — everything runs locally
+- ✅ Auto-download from direct URLs
+- ✅ Progress tracking with real-time download indicators
+- ✅ Cross-platform: iOS, Android, Web support
+
+**🛠 Tech Stack:**
+- Flutter WebView integration
+- Local file system management
+- HTTP/HTTPS file handling
+- Custom network security configurations
+
+**📦 Perfect For:**
+- Educational apps and e-learning platforms
+- Offline-first learning experiences
+- Schools with limited internet access
+- Interactive training modules
+
+**🎓 Free for educational use** | [View on pub.dev](https://pub.dev/packages/lumi_h5p)
+
+---
+
+## 💻 Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musa195420&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=musa195420&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musa195420&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=musa195420&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=musa195420&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+[![Musa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=musa195420&theme=react-dark&hide_border=true)](https://github.com/musa195420)
+
+---
+
+<div align="center">
+
+### 💼 Open for Opportunities
+
+I'm passionate about building impactful mobile solutions and always excited to collaborate on innovative projects.  
+Let's connect and create something amazing together! 🚀
+
+[![Profile Views](https://komarev.com/ghpvc/?username=musa195420&color=blueviolet&style=for-the-badge)](https://github.com/musa195420)
+
+</div>
