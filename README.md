@@ -112,11 +112,7 @@ A Flutter package enabling **offline H5P interactive content playback** — perf
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musa195420&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=musa195420&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=musa195420&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -126,11 +122,19 @@ A Flutter package enabling **offline H5P interactive content playback** — perf
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=musa195420&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
+![Trophies](https://github.com/user-attachments/assets/56f64b03-7dca-493b-81bd-1bba09ee2cb9)
 
 </div>
 
 ---
+
+<div align="center"> <table> <tr> <td align="center"> <a href="https://zilon.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/2d6718e7-677b-4e1d-8da6-16587ccd6929" alt="Zilon" height="60"/> </a> </td> <td align="center"> <a href="https://techswivel.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/239b97ef-a0bb-4946-9a29-809cc6503dcd" alt="TechSwivel" height="60"/> </a> </td> </tr> <tr> <td align="center"> <a href="https://www.wayoutlab.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/86e3da20-44af-41c9-ba0e-dcb8253fe7bc" alt="Wayout Lab" height="60"/> </a> </td> <td align="center"> <a href="https://autosmarttech.com/" target="_blank"> <img src="https://github.com/user-attachments/assets/6a4ae933-2718-4951-80bf-6b47aac57bfa" alt="AutoSmart Tech" height="60"/> </a> </td> </tr> </table> <br/>
+
+<strong>🚀 50+ projects delivered</strong> across mobile apps, backend systems, real-time features, and scalable architectures.
+
+</div>
+
+
 
 ## 📈 Contribution Graph
 
