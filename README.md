@@ -108,14 +108,17 @@ A Flutter package enabling **offline H5P interactive content playback** — perf
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
+## 📊 Leet Code  Statistics
+<div align="center"> <a href="https://leetcode.com/u/MuhammadMusaX/" target="_blank"> <img src="https://github.com/user-attachments/assets/265001a1-fce3-4273-a7e5-946aaca135e0" alt="LeetCode Profile – Muhammad Musa" width="714" /> </a>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=musa195420&theme=radical&hide_border=true)
+<br/><br/>
+
+🔗 <strong><a href="https://leetcode.com/u/MuhammadMusaX/" target="_blank">
+View my LeetCode Profile
+</a></strong>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
