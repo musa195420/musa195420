@@ -19,66 +19,6 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/musa195420)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musa195420@gmail.com)
 
----
-
-## 🚀 Featured Projects
-
-### 🐾 [PetAdopt - Pet Adoption Platform](https://github.com/musa195420/PetAdoption)
-
-A comprehensive cross-platform pet adoption ecosystem built with **Flutter** and **Next.js/Express.js** backend.
-
-**🎯 Key Features:**
-- **Role-based system:** Adopter, Donor, and Admin workflows
-- **ML-powered detection:** PyTorch Lite model for automatic pet species classification (Dog/Cat/Bird)
-- **Real-time chat:** Firebase Firestore messaging between adopters and donors
-- **Secure meetups:** Location sharing and verification system for safe adoptions
-- **Health tracking:** Complete pet medical history and vaccination records
-- **Advanced filtering:** Search by species, breed, age, location with geolocation support
-
-**🛠 Tech Stack:**
-- **Frontend:** Flutter (MVVM architecture), Hive (local DB)
-- **Backend:** Next.js, Express.js, PostgreSQL (Supabase)
-- **Auth:** JWT with refresh token flow
-- **Storage:** Supabase bucket with Multer integration
-- **ML:** PyTorch Light for image classification
-
-**📊 Architecture:**
-- MVC pattern on backend
-- MVVM pattern on mobile
-- 74+ implemented API endpoints
-- Comprehensive data models with relational DB structure
-
-[📱 View Mobile App](https://github.com/musa195420/PetAdoptionApp) | [🔧 View Backend API](https://github.com/musa195420/PetAdoption)
-
----
-
-### 🎯 [Lumi_H5P - Flutter H5P Player](https://pub.dev/packages/lumi_h5p)
-
-A Flutter package enabling **offline H5P interactive content playback** — perfect for educational apps.
-
-**🎯 Key Features:**
-- ✅ Play `.h5p` files completely **offline** after initial download
-- ✅ **No H5P server required** — everything runs locally
-- ✅ Auto-download from direct URLs
-- ✅ Progress tracking with real-time download indicators
-- ✅ Cross-platform: iOS, Android, Web support
-
-**🛠 Tech Stack:**
-- Flutter WebView integration
-- Local file system management
-- HTTP/HTTPS file handling
-- Custom network security configurations
-
-**📦 Perfect For:**
-- Educational apps and e-learning platforms
-- Offline-first learning experiences
-- Schools with limited internet access
-- Interactive training modules
-
-**🎓 Free for educational use** | [View on pub.dev](https://pub.dev/packages/lumi_h5p)
-
----
-
 ## 💻 Tech Stack
 
 ### Mobile Development
@@ -155,3 +95,67 @@ Let's connect and create something amazing together! 🚀
 [![Profile Views](https://komarev.com/ghpvc/?username=musa195420&color=blueviolet&style=for-the-badge)](https://github.com/musa195420)
 
 </div>
+
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 [PetAdopt - Pet Adoption Platform](https://github.com/musa195420/PetAdoption)
+
+A comprehensive cross-platform pet adoption ecosystem built with **Flutter** and **Next.js/Express.js** backend.
+
+**🎯 Key Features:**
+- **Role-based system:** Adopter, Donor, and Admin workflows
+- **ML-powered detection:** PyTorch Lite model for automatic pet species classification (Dog/Cat/Bird)
+- **Real-time chat:** Firebase Firestore messaging between adopters and donors
+- **Secure meetups:** Location sharing and verification system for safe adoptions
+- **Health tracking:** Complete pet medical history and vaccination records
+- **Advanced filtering:** Search by species, breed, age, location with geolocation support
+
+**🛠 Tech Stack:**
+- **Frontend:** Flutter (MVVM architecture), Hive (local DB)
+- **Backend:** Next.js, Express.js, PostgreSQL (Supabase)
+- **Auth:** JWT with refresh token flow
+- **Storage:** Supabase bucket with Multer integration
+- **ML:** PyTorch Light for image classification
+
+**📊 Architecture:**
+- MVC pattern on backend
+- MVVM pattern on mobile
+- 74+ implemented API endpoints
+- Comprehensive data models with relational DB structure
+
+[📱 View Mobile App](https://github.com/musa195420/PetAdoptionApp) | [🔧 View Backend API](https://github.com/musa195420/PetAdoption)
+
+---
+
+### 🎯 [Lumi_H5P - Flutter H5P Player](https://pub.dev/packages/lumi_h5p)
+
+A Flutter package enabling **offline H5P interactive content playback** — perfect for educational apps.
+
+**🎯 Key Features:**
+- ✅ Play `.h5p` files completely **offline** after initial download
+- ✅ **No H5P server required** — everything runs locally
+- ✅ Auto-download from direct URLs
+- ✅ Progress tracking with real-time download indicators
+- ✅ Cross-platform: iOS, Android, Web support
+
+**🛠 Tech Stack:**
+- Flutter WebView integration
+- Local file system management
+- HTTP/HTTPS file handling
+- Custom network security configurations
+
+**📦 Perfect For:**
+- Educational apps and e-learning platforms
+- Offline-first learning experiences
+- Schools with limited internet access
+- Interactive training modules
+
+**🎓 Free for educational use** | [View on pub.dev](https://pub.dev/packages/lumi_h5p)
+
+---
+
