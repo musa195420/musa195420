@@ -52,14 +52,10 @@
 ## 📊 Leet Code  Statistics
 <div align="center"> <a href="https://leetcode.com/u/MuhammadMusaX/" target="_blank"> <img src="https://github.com/user-attachments/assets/265001a1-fce3-4273-a7e5-946aaca135e0" alt="LeetCode Profile – Muhammad Musa" width="714" /> </a>
 
-<br/><br/>
 
-🔗 <strong><a href="https://leetcode.com/u/MuhammadMusaX/" target="_blank">
-View my LeetCode Profile
-</a></strong>
 
 </div>
----
+
 
 ## 🏆 GitHub Trophies
 
